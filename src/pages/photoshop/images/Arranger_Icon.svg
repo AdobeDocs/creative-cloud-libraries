@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_3" data-name="Rechteck 3" width="1024" height="1024" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Arranger_Icon">
+      <rect width="1024" height="1024"/>
+    </clipPath>
+  </defs>
+  <g id="Arranger_Icon" clip-path="url(#clip-Arranger_Icon)">
+    <g id="Arranger_Icon-2" data-name="Arranger_Icon" transform="translate(0.417 0.337)">
+      <g id="Gruppe_2" data-name="Gruppe 2" transform="translate(-0.417 -0.337)" clip-path="url(#clip-path)">
+        <g id="Gruppe_1" data-name="Gruppe 1" clip-path="url(#clip-path)">
+          <rect id="Rechteck_1" data-name="Rechteck 1" width="1023.212" height="1023.212" transform="translate(0.434 0.394)" fill="#333"/>
+        </g>
+      </g>
+      <path id="Pfad_1" data-name="Pfad 1" d="M830.074,628.049,1032.1,1032.1H628.049ZM628.049,224,830.074,628.049H426.025ZM426.025,628.049,628.049,1032.1H224Z" transform="translate(-116.466 -116.386)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
