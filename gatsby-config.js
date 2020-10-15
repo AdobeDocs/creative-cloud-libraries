@@ -28,6 +28,9 @@ module.exports = {
         path: "/",
       },
     ],
+    docs: {
+      path: '/creative-cloud-libraries/docs'
+    }
   },
   plugins: [`@adobe/gatsby-theme-parliament`],
   pathPrefix: process.env.PATH_PREFIX || "/creative-cloud-libraries",
