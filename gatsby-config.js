@@ -30,5 +30,5 @@ module.exports = {
     ],
   },
   plugins: [`@adobe/gatsby-theme-parliament`],
-  pathPrefix: process.env.PATH_PREFIX || "/gatsby-theme-parliament-platform",
+  pathPrefix: process.env.PATH_PREFIX || "/creative-cloud-libraries",
 };

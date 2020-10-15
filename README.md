@@ -1,4 +1,4 @@
-# Gatsby Theme Parliament Platform Template
+# creative cloud libraries developer marketing documentation
 
 This is a Gatsby site template built with [Gatsby Theme Parliament](https://github.com/adobe/gatsby-theme-parliament).
 

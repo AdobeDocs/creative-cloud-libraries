@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "gatsby-theme-parliament-platform",
+  "name": "creative-cloud-libraries-developer-marking-documentation",
   "version": "0.0.3",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdobeDocs/gatsby-theme-parliament-platform"
+    "url": "https://github.com/AdobeDocs/creative-cloud-libraries"
   },
   "author": {
     "name": "Stephan Ringel",
