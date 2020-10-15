@@ -24,8 +24,8 @@ module.exports = {
     globalNav,
     pages: [
       {
-        title: "Adobe Creative Cloud",
-        path: "/creative-cloud/",
+        title: "Adobe Creative Cloud Libraries",
+        path: "/",
       },
     ],
   },

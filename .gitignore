@@ -6,7 +6,3 @@ node_modules
 yarn-error.log
 .editorconfig
 .env
-.DS_Store
-src/.DS_Store
-src/pages/.DS_Store
-yarn.lock

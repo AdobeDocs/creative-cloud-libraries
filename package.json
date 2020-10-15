@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "creative-cloud-libraries-developer-marking-documentation",
+  "name": "creative-cloud-libraries",
   "version": "0.0.3",
   "license": "Apache-2.0",
   "repository": {
@@ -12,8 +12,7 @@
     "url": "https://github.com/icaraps"
   },
   "dependencies": {
-    "@adobe/gatsby-theme-parliament": "^2.6.2",
-    "dev-site-product-index": "github:adobedocs/dev-site-product-index",
+    "@adobe/gatsby-theme-parliament": "^2.7.0",
     "gatsby": "^2.24.74",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
