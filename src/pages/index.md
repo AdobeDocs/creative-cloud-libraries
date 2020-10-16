@@ -9,24 +9,68 @@ description: Connect to the creative system with the Creative Cloud Libraries AP
 
 # Accelerate Creativity with the Creative Cloud Libraries API
 
-Creative Cloud Libraries are the foundation of your users' creative system, enabling element re-use across teams and documents. They manage, organize, and keep elements of your user’s creative system like colors, character styles, logos, and images for use in Creative Cloud apps and connected experiences. <br /> <br /> With the Creative Cloud Libraries API you can connect your application to Libraries and expand the reach of your user’s creative system. This helps them work more efficiently by providing access to those creative elements inside your application and connecting your application back to the Creative Cloud products.
+Connect your application to Creative Cloud Libraries and expand the reach of your user’s creative system. Let users save and access design elements including colors, character styles, logos, and images within your application or within Creative Cloud mobile and desktop apps. 
 
-- [Get started](https://adobe.io)
-- [Sign up for the newsletter](https://adobe.io)
+- [Go to the Documentation](/creative-cloud-libraries/docs/)
+- [Learn more about Libraries](/creative-cloud-libraries/docs/overview/product-overview/)
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+<TitleBlock slots="heading, text" theme="dark" />
 
-![MSFT Teams logo](images/cameraiq.png)
+# Get Started Integrating with Creative Cloud Libraries
+
+Check out the documentation and quickly start bringing the power of the Creative Cloud into your application.
+
+<TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered />
+
+### Quick Starts
+
+Make your first API call in curl or Node.js.
+
+- [Get Started](/creative-cloud-libraries/docs/integrate/tutorials/)
+
+<TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered />
+
+### API Docs
+
+Get all the details in the API reference documentation.
+
+- [Explore the API](/creative-cloud-libraries/docs/api/)
+
+<TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered />
+
+### Discover Elements
+
+Learn all the ways you can use Library elements
+
+- [See the Docs](/creative-cloud-libraries/docs/integrate/guides/working-with-elements/)
+
+<TitleBlock slots="heading" theme="light" />
+
+### See the Libraries API in Action
+
+<TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
+
+![CameraIQ logo](images/cameraiq.png)
 
 ### Libraries in CameraIQ
 
 CameraIQ is using Creative Cloud Libraries to help creatives and marketers build augmented reality experiences.
 
-- [Learn more](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software)
+- [Learn more]()
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
 
-![JIRA Cloud logo](images/tiled.png)
+![Mural logo](images/mural.png)
+
+### Libraries in Mural
+
+Mural tapped into Creative Cloud Libraries to make sure their customers could easily share their most important assets for visual collaboration.
+
+- [Learn more]()
+
+<TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
+
+![Tiled logo](images/tiled.png)
 
 ### Libraries in Tiled
 
@@ -34,15 +78,25 @@ Tiled connected Creative Cloud Libraries to help users create on brand, interact
 
 - [Learn more](https://tiled.co/cclibraries/)
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
 
-![Slack logo](images/mural.png)
+![Tiled logo](images/frontify.png)
 
-### Libraries in Mural
+### Libraries in Frontify
 
-Mural tapped into Creative Cloud Libraries to make sure their customers could easily share their most important assets for visual collaboration.
+Frontify integrated with Creative Cloud Libraries to help users create brand consitency.
 
-- [Learn more](https://slack.com/enterprise)
+- [Learn more](https://tiled.co/cclibraries/)
+
+<TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
+
+![Tiled logo](images/holabrief.svg)
+
+### Libraries in Holabrief
+
+Holabrief used Creative Cloud Libraries to make it easy for teams to make creative briefs.
+
+- [Learn more](https://tiled.co/cclibraries/)
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
