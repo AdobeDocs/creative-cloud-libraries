@@ -11,8 +11,8 @@ description: Connect to the creative system with the Creative Cloud Libraries AP
 
 Connect your application to Creative Cloud Libraries and expand the reach of your user’s creative system. Let users save and access design elements including colors, character styles, logos, and images within your application or within Creative Cloud mobile and desktop apps. 
 
-- [Go to the Documentation](/creative-cloud-libraries/docs/)
-- [Learn more about Libraries](/creative-cloud-libraries/docs/overview/product-overview/)
+- [Go to the Documentation](../creative-cloud-libraries/docs/)
+- [Learn more about Libraries](../creative-cloud-libraries/docs/overview/product-overview/)
 
 <TitleBlock slots="heading, text" theme="dark" />
 
@@ -26,7 +26,7 @@ Check out the documentation and quickly start bringing the power of the Creative
 
 Make your first API call in curl or Node.js.
 
-- [Get Started](/creative-cloud-libraries/docs/integrate/tutorials/)
+- [Get Started](../creative-cloud-libraries/docs/integrate/tutorials/)
 
 <TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered />
 
@@ -34,7 +34,7 @@ Make your first API call in curl or Node.js.
 
 Get all the details in the API reference documentation.
 
-- [Explore the API](/creative-cloud-libraries/docs/api/)
+- [Explore the API](../creative-cloud-libraries/docs/api/)
 
 <TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered />
 
@@ -42,7 +42,7 @@ Get all the details in the API reference documentation.
 
 Learn all the ways you can use Library elements
 
-- [See the Docs](/creative-cloud-libraries/docs/integrate/guides/working-with-elements/)
+- [See the Docs](../creative-cloud-libraries/docs/integrate/guides/working-with-elements/)
 
 <TitleBlock slots="heading" theme="light" />
 
