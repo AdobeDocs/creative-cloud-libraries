@@ -44,11 +44,19 @@ Learn how you can use Library elements.
 
 - [See the Docs](../creative-cloud-libraries/docs/integrate/guides/working-with-elements/)
 
-<TitleBlock slots="heading" theme="light" />
+<AnnouncementBlock slots="heading, text, button" theme="dark" />
+
+### Connect with our community
+
+Ask questions, offer help, and inspire each other with what you create.
+
+[Join the Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
+
+<TitleBlock slots="heading" theme="lightest" />
 
 ### See the Libraries API in action
 
-<TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="20%" theme="lightest" isCentered />
 
 ![CameraIQ logo](images/cameraiq.png)
 
@@ -58,7 +66,7 @@ CameraIQ is using Creative Cloud Libraries to help creatives and marketers build
 
 - [Learn more]()
 
-<TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="20%" theme="lightest" isCentered />
 
 ![Mural logo](images/mural.png)
 
@@ -68,7 +76,7 @@ Mural tapped into Creative Cloud Libraries to make sure their customers could ea
 
 - [Learn more]()
 
-<TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="20%" theme="lightest" isCentered />
 
 ![Tiled logo](images/tiled.png)
 
@@ -78,7 +86,7 @@ Tiled connected Creative Cloud Libraries to help users create on-brand, interact
 
 - [Learn more](https://tiled.co/cclibraries/)
 
-<TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="20%" theme="lightest" isCentered />
 
 ![Tiled logo](images/frontify.png)
 
@@ -88,7 +96,7 @@ Frontify integrated with Creative Cloud Libraries to help users create brand con
 
 - [Learn more]()
 
-<TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="20%" theme="lightest" isCentered />
 
 ![Tiled logo](images/holabrief.svg)
 
