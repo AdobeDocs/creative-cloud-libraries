@@ -9,14 +9,14 @@ description: Connect to the creative system with the Creative Cloud Libraries AP
 
 # Accelerate Creativity with the Creative Cloud Libraries API
 
-Connect your application to Creative Cloud Libraries and expand the reach of your user’s creative system. Let users save and access design elements including colors, character styles, logos, and images within your application or within Creative Cloud mobile and desktop apps. 
+Connect your application to Creative Cloud Libraries and expand the reach of your user’s creative system. Let users save and access design elements including colors, character styles, logos, and images within your application or within Creative Cloud mobile and desktop apps.
 
-- [Go to the Documentation](../creative-cloud-libraries/docs/)
+- [Go to the documentation](../creative-cloud-libraries/docs/)
 - [Learn more about Libraries](../creative-cloud-libraries/docs/overview/product-overview/)
 
 <TitleBlock slots="heading, text" theme="dark" />
 
-# Get Started Integrating with Creative Cloud Libraries
+# Get started with the Creative Cloud Libraries API
 
 Check out the documentation and quickly start bringing the power of the Creative Cloud into your application.
 
@@ -34,19 +34,19 @@ Make your first API call in curl or Node.js.
 
 Get all the details in the API reference documentation.
 
-- [Explore the API](../creative-cloud-libraries/docs/api/)
+- [Explore the API&nbsp;](../creative-cloud-libraries/docs/api/)
 
 <TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered />
 
 ### Discover Elements
 
-Learn all the ways you can use Library elements
+Learn how you can use Library elements.
 
 - [See the Docs](../creative-cloud-libraries/docs/integrate/guides/working-with-elements/)
 
 <TitleBlock slots="heading" theme="light" />
 
-### See the Libraries API in Action
+### See the Libraries API in action
 
 <TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
 
@@ -74,7 +74,7 @@ Mural tapped into Creative Cloud Libraries to make sure their customers could ea
 
 ### Libraries in Tiled
 
-Tiled connected Creative Cloud Libraries to help users create on brand, interactive experiences.
+Tiled connected Creative Cloud Libraries to help users create on-brand, interactive experiences.
 
 - [Learn more](https://tiled.co/cclibraries/)
 
@@ -84,9 +84,9 @@ Tiled connected Creative Cloud Libraries to help users create on brand, interact
 
 ### Libraries in Frontify
 
-Frontify integrated with Creative Cloud Libraries to help users create brand consitency.
+Frontify integrated with Creative Cloud Libraries to help users create brand consistency.
 
-- [Learn more](https://tiled.co/cclibraries/)
+- [Learn more]()
 
 <TextBlock slots="image, heading, text, links" width="20%" theme="light" isCentered />
 
@@ -96,7 +96,7 @@ Frontify integrated with Creative Cloud Libraries to help users create brand con
 
 Holabrief used Creative Cloud Libraries to make it easy for teams to make creative briefs.
 
-- [Learn more](https://tiled.co/cclibraries/)
+- [Learn more]()
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
