@@ -56,7 +56,7 @@ Ask questions, offer help, and inspire each other with what you create.
 
 ### See the Libraries API in action
 
-<TextBlock slots="image, heading, text, links" width="20%" theme="lightest" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="lightest" isCentered />
 
 ![CameraIQ logo](images/cameraiq.png)
 
@@ -66,7 +66,7 @@ CameraIQ is using Creative Cloud Libraries to help creatives and marketers build
 
 - [Learn more]()
 
-<TextBlock slots="image, heading, text, links" width="20%" theme="lightest" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="lightest" isCentered />
 
 ![Mural logo](images/mural.png)
 
@@ -76,35 +76,16 @@ Mural tapped into Creative Cloud Libraries to make sure their customers could ea
 
 - [Learn more]()
 
-<TextBlock slots="image, heading, text, links" width="20%" theme="lightest" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="lightest" isCentered />
 
-![Tiled logo](images/tiled.png)
+![Tiled logo](images/google.png)
 
-### Libraries in Tiled
+### Libraries in Google
 
-Tiled connected Creative Cloud Libraries to help users create on-brand, interactive experiences.
+In Google Workspace, users can access colors, graphics, and character styles from Creative Cloud Libraries for on brand documents and presentations.
 
-- [Learn more](https://tiled.co/cclibraries/)
+- [Learn more](https://gsuite.google.com/marketplace/app/adobe_creative_cloud/969673929375)
 
-<TextBlock slots="image, heading, text, links" width="20%" theme="lightest" isCentered />
-
-![Tiled logo](images/frontify.png)
-
-### Libraries in Frontify
-
-Frontify integrated with Creative Cloud Libraries to help users create brand consistency.
-
-- [Learn more]()
-
-<TextBlock slots="image, heading, text, links" width="20%" theme="lightest" isCentered />
-
-![Tiled logo](images/holabrief.svg)
-
-### Libraries in Holabrief
-
-Holabrief used Creative Cloud Libraries to make it easy for teams to make creative briefs.
-
-- [Learn more]()
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
