@@ -56,7 +56,7 @@ Ask questions, offer help, and inspire each other with what you create.
 
 ### See the Libraries API in action
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="lightest" isCentered />
+<TextBlock slots="image, heading, text, links" width="25%" theme="lightest" isCentered />
 
 ![CameraIQ logo](images/cameraiq.png)
 
@@ -64,9 +64,9 @@ Ask questions, offer help, and inspire each other with what you create.
 
 CameraIQ is using Creative Cloud Libraries to help creatives and marketers build augmented reality experiences.
 
-- [Learn more]()
+- [Learn more](https://cameraiq.com/)
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="lightest" isCentered />
+<TextBlock slots="image, heading, text, links" width="25%" theme="lightest" isCentered />
 
 ![Mural logo](images/mural.png)
 
@@ -74,11 +74,11 @@ CameraIQ is using Creative Cloud Libraries to help creatives and marketers build
 
 Mural tapped into Creative Cloud Libraries to make sure their customers could easily share their most important assets for visual collaboration.
 
-- [Learn more]()
+- [Learn more](https://www.mural.co/)
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="lightest" isCentered />
+<TextBlock slots="image, heading, text, links" width="25%" theme="lightest" isCentered />
 
-![Tiled logo](images/google.png)
+![Google logo](images/google.png)
 
 ### Libraries in Google
 
@@ -86,6 +86,15 @@ In Google Workspace, users can access colors, graphics, and character styles fro
 
 - [Learn more](https://gsuite.google.com/marketplace/app/adobe_creative_cloud/969673929375)
 
+<TextBlock slots="image, heading, text, links" width="25%" theme="lightest" isCentered />
+
+![Streamline logo](images/streamline.png)
+
+### Libraries in Streamline
+
+Streamline connected Creative Cloud Libraries so that users could easily save icons and start designing with them.
+
+- [Learn more](https://streamlineicons.com/)
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
