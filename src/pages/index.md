@@ -1,6 +1,6 @@
 ---
-title: Home - Creative Cloud Libraries
-description: Connect to the creative system with the Creative Cloud Libraries API
+title: Creative Cloud Libraries API
+description: Connect your app to Creative Cloud Libraries. Give users access to all their stored creative elements, like logos, colors, and more.
 ---
 
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
