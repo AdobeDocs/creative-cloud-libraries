@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "creative-cloud-libraries",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
