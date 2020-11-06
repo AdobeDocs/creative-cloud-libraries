@@ -1,7 +1,5 @@
 # creative cloud libraries developer marketing documentation
 
-This is a Gatsby site template built with [Gatsby Theme Parliament](https://github.com/adobe/gatsby-theme-parliament).
+This is a Gatsby site template built with [Adobe I/O Gatsby Theme](https://github.com/adobe/gatsby-theme-aio).  
 
-View the [demo](https://adobedocs.github.io/gatsby-theme-parliament-platform/) running on Github Pages.  
-
-Follow the [instructions](https://github.com/adobe/gatsby-theme-parliament#getting-started) to get started.
+Follow the [instructions](https://github.com/adobe/gatsby-theme-aio#getting-started) to get started.
