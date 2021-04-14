@@ -23,5 +23,5 @@ module.exports = {
     }
   },
   plugins: [`@adobe/gatsby-theme-aio`],
-  pathPrefix: process.env.PATH_PREFIX || "/creative-cloud-libraries",
+  pathPrefix: process.env.PATH_PREFIX || "/creative-cloud-libraries/",
 };
