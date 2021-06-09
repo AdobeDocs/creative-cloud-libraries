@@ -5,7 +5,7 @@ description: Connect your app to Creative Cloud Libraries. Give users access to 
 
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
 # Accelerate Creativity with the Creative Cloud Libraries API
 
@@ -88,7 +88,7 @@ In Google Workspace, users can access colors, graphics, and character styles fro
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![CC banner](images/cc-banner.png)
+![CC banner](https://adobe.io/shared/images/cc-banner.png)
 
 ## Get the latest news for Creative Cloud Developers
 
