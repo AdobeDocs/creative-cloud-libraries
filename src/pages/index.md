@@ -1,4 +1,10 @@
 ---
+keywords:
+  - Creative Cloud
+  - API Documentation
+  - JavaScript
+  - CC Libraries API
+  - Creative Cloud Libraries API
 title: Creative Cloud Libraries API
 description: Connect your app to Creative Cloud Libraries. Give users access to all their stored creative elements, like logos, colors, and more.
 ---
