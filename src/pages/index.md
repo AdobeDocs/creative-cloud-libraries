@@ -15,7 +15,7 @@ description: Connect your app to Creative Cloud Libraries. Give users access to 
 
 # Accelerate Creativity with the Creative Cloud Libraries API
 
-_Please note we are not currently accepting new integrations._ Existing third-party integrations can reference the [existing documentation](../creative-cloud-libraries/docs/).<br />Connect your application to Creative Cloud Libraries and expand the reach of your user’s creative system. Let users save and access design elements including colors, character styles, logos, and images within your application or within Creative Cloud mobile and desktop apps.
+_Please note we are not currently accepting new integrations._ Existing third-party integrations can reference the existing documentation.<br />Connect your application to Creative Cloud Libraries and expand the reach of your user’s creative system. Let users save and access design elements including colors, character styles, logos, and images within your application or within Creative Cloud mobile and desktop apps.
 
 - [Go to the documentation](../creative-cloud-libraries/docs/)
 - [Learn more about Libraries](../creative-cloud-libraries/docs/overview/product-overview/)
@@ -102,3 +102,5 @@ With the Creative Cloud Developer Newsletter and the Adobe Tech Blog, we offer r
 
 - [Join the newsletter](http://adobe.ly/devnews)
 - [Follow the blog](https://medium.com/adobetech)
+
+<!--- 🚀 --->
