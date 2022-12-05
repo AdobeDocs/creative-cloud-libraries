@@ -16,6 +16,12 @@ module.exports = {
       {
         title: "Creative Cloud Libraries",
         path: "/",
+        title: "Tutorials",
+        path: "/docs/integrate/tutorials/",
+        title: "Guides",
+        path: "/docs/integrate/guides/",
+        title: "Library Elements",
+        path: "/docs/integrate/guides/working-with-elements/", 
       },
     ],
     docs: {
