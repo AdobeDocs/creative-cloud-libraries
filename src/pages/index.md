@@ -15,54 +15,22 @@ description: Connect your app to Creative Cloud Libraries. Give users access to 
 
 # Accelerate Creativity with the Creative Cloud Libraries API
 
-_Please note we are not currently accepting new integrations._ Existing third-party integrations can reference the [existing documentation](../creative-cloud-libraries/docs/).<br />Connect your application to Creative Cloud Libraries and expand the reach of your user’s creative system. Let users save and access design elements including colors, character styles, logos, and images within your application or within Creative Cloud mobile and desktop apps.
+_Please note we are not currently accepting new integrations._ Existing third-party integrations can reference the [existing documentation](../creative-cloud-libraries/docs/).<br /><br />Connect your application to Creative Cloud Libraries and expand the reach of your user’s creative system. Let users save and access design elements including colors, character styles, logos, and images within your application or within Creative Cloud mobile and desktop apps.
 
 - [Go to the documentation](../creative-cloud-libraries/docs/)
 - [Learn more about Libraries](../creative-cloud-libraries/docs/overview/product-overview/)
 
 <TitleBlock slots="heading, text" theme="dark" />
 
-# Get started with the Creative Cloud Libraries API
+# Please Note:
 
-Check out the documentation and quickly start bringing the power of the Creative Cloud into your application.
+We are not currently accepting new integrations. Existing third-party integrations can reference the [existing documentation](../creative-cloud-libraries/docs/).<br /><br />
 
-<TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered />
-
-### Quick Starts
-
-Make your first API call in curl or Node.js.
-
-- [Get Started](../creative-cloud-libraries/docs/integrate/tutorials/)
-
-<TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered />
-
-### API Docs
-
-Get all the details in the API reference documentation.
-
-- [Explore the API&nbsp;](../creative-cloud-libraries/docs/api/)
-
-<TextBlock slots="heading, text, buttons" width="33%" theme="dark" isCentered />
-
-### Discover Elements
-
-Learn how you can use Library elements.
-
-- [See the Docs](../creative-cloud-libraries/docs/integrate/guides/working-with-elements/)
-
-<AnnouncementBlock slots="heading, text, button" theme="dark" />
-
-### Connect with our community
-
-Ask questions, offer help, and inspire each other with what you create.
-
-[Join the Creative Cloud Developer Forums](https://forums.creativeclouddeveloper.com)
-
-<TitleBlock slots="heading" theme="lightest" />
+<TitleBlock slots="heading" theme="light" />
 
 ### See the Libraries API in action
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="lightest" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
 ![CameraIQ logo](images/cameraiq.png)
 
@@ -72,7 +40,7 @@ CameraIQ is using Creative Cloud Libraries to help creatives and marketers build
 
 - [Learn more](https://cameraiq.com/)
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="lightest" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
 ![Mural logo](images/mural.png)
 
@@ -82,7 +50,7 @@ Mural tapped into Creative Cloud Libraries to make sure their customers could ea
 
 - [Learn more](https://www.mural.co/)
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="lightest" isCentered />
+<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
 ![Google logo](images/google.png)
 
