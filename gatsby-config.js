@@ -15,13 +15,16 @@ module.exports = {
     pages: [
       {
         title: "Creative Cloud Libraries",
-        path: "/",
+        path: "/" },
+        {
         title: "Tutorials",
-        path: "/docs/integrate/tutorials/",
+        path: "/creative-cloud-libraries/docs/integrate/tutorials/" },
+        {
         title: "Guides",
-        path: "/docs/integrate/guides/",
+        path: "/creative-cloud-libraries/docs/integrate/guides/" },
+        {
         title: "Library Elements",
-        path: "/docs/integrate/guides/working-with-elements/", 
+        path: "/creative-cloud-libraries/docs/integrate/guides/working-with-elements/", 
       },
     ],
     docs: {
