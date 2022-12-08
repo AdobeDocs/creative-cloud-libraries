@@ -15,10 +15,10 @@ description: Connect your app to Creative Cloud Libraries. Give users access to 
 
 # Accelerate Creativity with the Creative Cloud Libraries API
 
-_Please note we are not currently accepting new integrations._ Existing third-party integrations can reference the [existing documentation](../creative-cloud-libraries/docs/).<br /><br />Connect your application to Creative Cloud Libraries and expand the reach of your user’s creative system. Let users save and access design elements including colors, character styles, logos, and images within your application or within Creative Cloud mobile and desktop apps.
+_Please note we are not currently accepting new integrations._ Existing third-party integrations can reference the [existing documentation](../creative-cloud-libraries/docs/) or <a href="mailto:ccintrev@adobe.com">email us</a> with questions.<br /><br />Connect your application to Creative Cloud Libraries and expand the reach of your user’s creative system. Let users save and access design elements including colors, character styles, logos, and images within your application or within Creative Cloud mobile and desktop apps.
 
-- [Go to the documentation](../creative-cloud-libraries/docs/)
 - [Learn more about Libraries](../creative-cloud-libraries/docs/overview/product-overview/)
+- [Go to the documentation](../creative-cloud-libraries/docs/)
 
 <TitleBlock slots="heading, text" theme="dark" />
 
@@ -30,7 +30,7 @@ We are not currently accepting new integrations. Existing third-party integratio
 
 ### See the Libraries API in action
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+<!-- <TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
 
 ![CameraIQ logo](images/cameraiq.png)
 
@@ -38,9 +38,9 @@ We are not currently accepting new integrations. Existing third-party integratio
 
 CameraIQ is using Creative Cloud Libraries to help creatives and marketers build augmented reality experiences.
 
-- [Learn more](https://cameraiq.com/)
+- [Learn more](https://cameraiq.com/) -->
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="50%" theme="light" isCentered />
 
 ![Mural logo](images/mural.png)
 
@@ -50,7 +50,7 @@ Mural tapped into Creative Cloud Libraries to make sure their customers could ea
 
 - [Learn more](https://www.mural.co/)
 
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
+<TextBlock slots="image, heading, text, links" width="50%" theme="light" isCentered />
 
 ![Google logo](images/google.png)
 
