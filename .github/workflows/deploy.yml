@@ -14,7 +14,15 @@ on:
       excludeSubfolder:
         description: "Exclude a subfolder from deletion"
         required: false
-        default: 'docs'
+        default: "docs"
+      index-mode:
+        description: 'Type of indexing. "index" to push to Algolia, "console" for dry run.'
+        required: true
+        default: "index"
+        type: choice
+        options:
+          - console
+          - index
 jobs:
   set-state:
     runs-on: ubuntu-latest
